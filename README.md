@@ -93,9 +93,5 @@ int main(){
     printf("\nFim do Jogo\n");
   }
   
-  
-  
-  
-  
  return 0; 
 }
